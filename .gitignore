@@ -24,6 +24,7 @@
 
 # Shared objects (inc. Windows DLLs)
 # test-node-test-marker
+# test-node-test-marker
 *.dll
 *.so
 *.so.*
